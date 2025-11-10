@@ -1,5 +1,28 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+
+#Excuses {
+    font-size: 26px;
+    font-style: oblique;
+    color: beige;
 }
+
+.mt-5 {
+    color: lightseagreen;
+}
+
+body {  
+  height: 100%;
+  margin: 0;
+  display: flex;         
+  justify-content: center; 
+  align-items: center;   
+  height: 80vh; 
+  
+}
+
+body {
+  background-color: #121212;
+  color: #000000;
+}
+
